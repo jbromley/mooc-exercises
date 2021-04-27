@@ -1,0 +1,18 @@
+~        ## Challenge mooc-BV1 - Braitenberg 1
+~
+~                Track this submission at:
+~
+~
+https://challenges.duckietown.org/v4/humans/submissions/15017
+~
+~                You can follow its fate using:
+~
+~                    $ dts challenges follow --submission 15017
+~
+~                You can speed up the evaluation using your own evaluator:
+~
+~                    $ dts challenges evaluator --submission 15017
+~
+~                For more information, see the manual at
+https://docs.duckietown.org/daffy/AIDO/out/
+
