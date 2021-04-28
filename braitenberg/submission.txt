@@ -2,17 +2,15 @@
 ~
 ~                Track this submission at:
 ~
-~
-https://challenges.duckietown.org/v4/humans/submissions/15017
+~                    https://challenges.duckietown.org/v4/humans/submissions/15069
 ~
 ~                You can follow its fate using:
 ~
-~                    $ dts challenges follow --submission 15017
+~                    $ dts challenges follow --submission 15069
 ~
 ~                You can speed up the evaluation using your own evaluator:
 ~
-~                    $ dts challenges evaluator --submission 15017
+~                    $ dts challenges evaluator --submission 15069
 ~
-~                For more information, see the manual at
-https://docs.duckietown.org/daffy/AIDO/out/
-
+~                For more information, see the manual at https://docs.duckietown.org/daffy/AIDO/out/
+~
