@@ -8,10 +8,10 @@ def get_motor_left_matrix(shape: Tuple[int, int]) -> np.ndarray:
     h, w = shape
 
     # Set the parameters for the reaction matrix
-    x_mid = 15 * w // 32
+    x_mid = 17 * w // 32
     x_hi = w
     y_active = 3 * h // 8
-    y_full = 15 * h // 16
+    y_full = 7 * h // 8
 
     # Size of the active area of matrix
     h_active = y_full - y_active
@@ -30,10 +30,10 @@ def get_motor_right_matrix(shape: Tuple[int, int]) -> np.ndarray:
     h, w = shape
 
     # Set the parameters for the reaction matrix
-    x_mid = 15 * w // 32
+    x_mid = 17 * w // 32
     x_lo = 0
     y_active = 3 * h // 8
-    y_full = 15 * h // 16
+    y_full = 7 * h // 8
 
     # Size of the active area of matrix
     h_active = y_full - y_active
